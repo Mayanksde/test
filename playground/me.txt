@@ -1,5 +1,0 @@
-{{#user}
-Name: Mayank Mishra
-Skills: HTML, CSS, JS, React.js, C++, C, Java.
-Email: mayankmishra0093@gmail.com
-{{/user}}
